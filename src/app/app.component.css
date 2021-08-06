@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    padding: 10px;
+    align-items:baseline;
+    justify-content: center;
+    text-align: center;
+ }
+
